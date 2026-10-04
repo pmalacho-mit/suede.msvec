@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/pmalacho-mit/suede.msvec
 	branch = release
-	commit = 2001cbfa158d147a165ec52442bb0cf8f32bbb05
-	parent = 367ac04181eed7cb87ca16d7f1504a4b4c7ce3c8
+	commit = 6aed5eb56bf428ea6968fdb22b5d3d97bdf49343
+	parent = 90f2690dc889123644f6c03496c5b8311e1a0aec
 	method = merge
 	cmdver = 0.4.9
