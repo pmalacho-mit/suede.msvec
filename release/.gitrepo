@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/pmalacho-mit/suede.msvec
+	branch = release
+	commit = 2001cbfa158d147a165ec52442bb0cf8f32bbb05
+	parent = 367ac04181eed7cb87ca16d7f1504a4b4c7ce3c8
+	method = merge
+	cmdver = 0.4.9
